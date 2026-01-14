@@ -23,7 +23,7 @@ public class Questions {
      * @return - a number representing the line number that indicates the end of the "accelerate" method
      */
     public int question2() {   
-        return 11;
+        return 12;
     }
 
     /**
@@ -40,4 +40,5 @@ public class Questions {
     }
 
 }
+
 
